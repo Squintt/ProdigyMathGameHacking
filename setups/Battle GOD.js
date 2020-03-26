@@ -1,4 +1,4 @@
-//Use this script before very battle to DESTROY your enemies.(intended for wizard battles)
+//Use this script before every battle to DESTROY your enemies.(intended for wizard battles)
 Phaser.GAMES[0].state.states.Login._gameObj.debugMisc.setBattleEnergy(10); // Fills your combat energy!
 Phaser.GAMES[0].state.states.Login._gameObj.debugMisc.easyMode(); // You dont have to do math problems anymore!
 Phaser.GAMES[0].state.states.Login._gameObj.player.modifiers.barrier=true; // This dosent really help, but makes you look cool whenever you get atacked!
